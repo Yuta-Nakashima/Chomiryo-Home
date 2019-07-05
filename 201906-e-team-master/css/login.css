@@ -1,0 +1,10 @@
+div{
+  display:inline-block;
+  width:300px;
+  margin:0,auto;
+}
+
+#button{
+  width:100px;
+  margin-top:10px;
+}
